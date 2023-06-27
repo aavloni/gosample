@@ -1,8 +1,8 @@
 pipeline:
-  identifier: Build_gosample_1682634381813
-  name: Build gosample
-  orgIdentifier: default
-  projectIdentifier: default_project
+  identifier: new_CI_go_Example
+  name: new_CI_go_Example
+  orgIdentifier: testorg
+  projectIdentifier: CSETest1
   properties:
     ci:
       codebase:
